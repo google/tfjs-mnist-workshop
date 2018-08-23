@@ -1,0 +1,1 @@
+<html><body>You are being <a href="https://raw.githubusercontent.com/google/new-project/master/CONTRIBUTING.md">redirected</a>.</body></html>
